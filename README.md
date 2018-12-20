@@ -1,0 +1,2 @@
+# javaAppiumAutomation
+trainings
